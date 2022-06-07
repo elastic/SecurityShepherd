@@ -84,7 +84,7 @@
 </head>
 <body>
 	<script type="text/javascript" src="js/jquery.js"></script>
-	<div class="points">
+	<div class="points" style="visibility: hidden; display: none">
 		<h2 class="title">Points</h2>
 		<p>Below is a breakdown of the points on offer for helping out your fellow participants and completing a level.</p>
 		<h3>Achievements</h3>
