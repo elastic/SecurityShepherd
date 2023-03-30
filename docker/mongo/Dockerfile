@@ -1,6 +1,6 @@
 ARG MONGODB_VERSION
 
-FROM docker AS builder
+FROM docker:23.0-dind AS builder
 
 ARG MONGO_BIND_ADDRESS
 
